@@ -1,4 +1,4 @@
-# Cinema API
+# CineTicket API
 
 API service for cinema management written on DRF
 
